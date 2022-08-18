@@ -4,7 +4,7 @@ This script accepts an input of Hosts and commands in two sepreate line-delimite
 This script will open an SSH connection to each host and input the commands in the commands file.
 
 ***Version Beta 0.5.1***
-* Created net method regexSearch to search for regular expressions in output from devices
+* Created new method regexSearch to search for regular expressions in output from devices
 
 ***Version Beta 0.5***
 * Threadpool now creates num threads equal to number of ip addresses
